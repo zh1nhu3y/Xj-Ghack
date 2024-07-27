@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Email Confirmation</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #dbe1e3;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    .email-container {
+      background-color: #ffffff;
+      max-width: 600px;
+      margin: 40px auto;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    .email-header {
+      background-color: #29ADB2;
+      padding: 20px;
+      text-align: center;
+      border-bottom: 1px solid #dddddd;
+    }
+    .email-header img {
+      max-width: 100px;
+    }
+    .email-body {
+      padding: 30px;
+      text-align: center;
+    }
+    .email-body h1 {
+      margin-bottom: 20px;
+      color: #333333;
+    }
+    .email-body p {
+      margin-bottom: 30px;
+      color: #666666;
+    }
+    .email-body a {
+      display: inline-block;
+      background-color: #29ADB2;
+      color: #ffffff;
+      text-decoration: none;
+      padding: 15px 25px;
+      border-radius: 5px;
+      font-size: 16px;
+    }
+    .email-footer {
+      background-color: #f7f7f7;
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+      color: #999999;
+    }
+    .email-footer a {
+      color: #29ADB2;
+      text-decoration: none;
+    }
+    .social-icons img {
+      width: 24px;
+      margin: 0 10px;
+      vertical-align: middle;
+    }
+  </style>
+</head>
+<body>
+  <div class="email-container">
+    <div class="email-header">
+    </div>
+    <div class="email-body">
+      <h1>Project Assignment</h1>
+      <p>Hi <?= employeeName ?>,</p>
+      <p>You have been assigned to the project "<strong><?= projectName ?></strong>" starting on <strong><?= startDate ?></strong> and ending on <strong><?= endDate ?></strong>.</p>
+      <p>Please find the project details in the Google Sheet.</p>
+      <a href="#">View Google Sheet</a>
+    </div>
+    <div class="email-footer">
+      <p>Email sent by Assign Ease</p>
+      <p>&copy; 2024 Project Management Team</p>
+    </div>
+  </div>
+</body>
+</html>
