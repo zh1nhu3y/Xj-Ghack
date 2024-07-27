@@ -1,12 +1,12 @@
 # Xj Ghack
 
-# AssignEase: Automated Employee Assignment and Project Management
+# Assign Ease: Automated Employee Assignment and Project Management
 
-Welcome to AssignEase, a comprehensive solution for optimizing employee assignments and project management. This project leverages AppSheet, Google Sheets, Google Calendar, Gmail, and Google Apps Script to automate and streamline the process.
+Welcome to Assign Ease, a comprehensive solution for optimizing employee assignments and project management. This project leverages AppSheet, Google Sheets, Google Calendar, Gmail, and Google Apps Script to automate and streamline the process.
 
 ## Overview
 
-AssignEase provides a user-friendly interface for managing employees and projects. It automates the assignment of employees based on their skills and availability, integrates project events into their Google Calendars, and sends notifications through Gmail.
+Assign Ease provides a user-friendly interface for managing employees and projects. It automates the assignment of employees based on their skills and availability, integrates project events into their Google Calendars, and sends notifications through Gmail.
 
 ## Features
 
@@ -35,7 +35,7 @@ AssignEase provides a user-friendly interface for managing employees and project
 
 ### Access Links
 
-- **AppSheet Application:** [AssignEase](https://www.appsheet.com/start/fb525c84-50d7-4550-a600-29412872fc48)
+- **AppSheet Application:** [Assign Ease](https://www.appsheet.com/start/fb525c84-50d7-4550-a600-29412872fc48)
 - **Google Sheet:** [Employee and Project Data](https://docs.google.com/spreadsheets/d/1m30iuAC4l4sbWMW9UBX_VTdNvZH5Vt_TvABaCUs6irw/edit?usp=sharing)
 - **Apps Script:** [Automation Script](https://script.google.com/d/1A6LbAX4ggzXsS6QmyXdwAl-TG4RBqiZvVg7nGncLoGXNBjMGZtfCKRgp/edit?usp=sharing)
 
@@ -58,4 +58,4 @@ AssignEase provides a user-friendly interface for managing employees and project
 
 ---
 
-Thank you for checking out AssignEase! For any questions or support, please contact [panzhinhuey@gmail.com](mailto:panzhinhuey@gmail.com) or [lawmeijun204@gmail.com](mailto:lawmeijun204@gmail.com).
+Thank you for checking out Assign Ease! For any questions or support, please contact [panzhinhuey@gmail.com](mailto:panzhinhuey@gmail.com) or [lawmeijun204@gmail.com](mailto:lawmeijun204@gmail.com).
