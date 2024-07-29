@@ -37,7 +37,7 @@ Assign Ease provides a user-friendly interface for managing employees and projec
 
 - **AppSheet Application:** [Assign Ease](https://www.appsheet.com/start/fb525c84-50d7-4550-a600-29412872fc48)
 - **Google Sheet:** [Employee and Project Data](https://docs.google.com/spreadsheets/d/1m30iuAC4l4sbWMW9UBX_VTdNvZH5Vt_TvABaCUs6irw/edit?usp=sharing)
-- **Apps Script:** [Automation Script](https://script.google.com/d/1A6LbAX4ggzXsS6QmyXdwAl-TG4RBqiZvVg7nGncLoGXNBjMGZtfCKRgp/edit?usp=sharing)
+- **Apps Script:** [Assign Ease](https://script.google.com/d/1A6LbAX4ggzXsS6QmyXdwAl-TG4RBqiZvVg7nGncLoGXNBjMGZtfCKRgp/edit?usp=sharing)
 
 ### How It Works
 
